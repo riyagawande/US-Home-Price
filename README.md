@@ -3,7 +3,8 @@
 Find publicly available data for key factors that influence US home prices nationally. Then, build a data science model that explains how these factors impacted home prices over the last 20 years. Use the S&P Case-Schiller Home Price Index as a proxy for home prices: fred.stlouisfed.org/series/CSUSHPISA.
 
 # Steps Involved: 
-  A]  The following steps were implemented in the Dataprep.ipynb file ()
+  A]  The following steps were implemented in the Dataprep.ipynb file (https://github.com/riyagawande/US-Home- 
+                                                                       Price/blob/main/Dataprep.ipynb)
  
         1. Data Collection:
           Utilized the S&P Case-Schiller Home Price Index as a proxy for home prices, sourced from the Federal 
@@ -17,10 +18,12 @@ Find publicly available data for key factors that influence US home prices natio
            Cleaned and processed the data, addressing missing values, converting date formats, and handling outliers.
 
         4. Data Preparation:
-           The prepared dataframe is converted into a CSV file. Refer it here (prepared_dataset.csv)
+           The prepared dataframe is converted into a CSV file. Refer it here (https://github.com/riyagawande/US-Home- 
+                                                                               Price/blob/main/prepared_dataset.csv)
 
 
-  B]   The following steps are involved in the Data Science Model.ipynb file ()
+  B]   The following steps are involved in the Data Science Model.ipynb file (https://github.com/riyagawande/US-Home- 
+                                                                              Price/blob/main/Data%20Science%20Model.ipynb)
 
         1. Exploratory Data Analysis (EDA):
            Conducted EDA to understand the distribution of variables, identify correlations, and visualize trends over time.
